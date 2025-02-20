@@ -4,6 +4,7 @@
 int searchInsert(int* nums, int numsSize, int target) {
    //Vul hier jouw code in
     printf("hello world");
+    test 2
 }
 
 // Testfunctie
